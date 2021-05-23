@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name XF2M-3215-1A)(type Legacy)(uri ${KIPRJMOD}/lib_sch/XF2M-3215-1A.lib)(options "")(descr ""))
+)
